@@ -1,4 +1,4 @@
-
+## Quick start
 The sample already contains the cleaned, augmented and processed files, so the rolling-horizon
 runner wcan be run immediately:
 
